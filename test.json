@@ -1,0 +1,18 @@
+{
+   "1": {
+      "title": "Stakeholder Communication",
+      "source": "http://google.com",
+      "description": "Build a communications plan for special projects or business-as-usual.",
+      "date": "2019-11-04",
+      "gameplan": "[a, b]",
+      "theme": "[1, 3]"
+   },
+   "2": {
+      "title": "Empathy Mapping to Understand Users",
+      "source": "http://google.com",
+      "description": "Align your success criteria with the needs of user personas.",
+      "date": "2019-10-29",
+      "gameplan": "[b, c]",
+      "theme": "[2, 3]"
+   }
+}
